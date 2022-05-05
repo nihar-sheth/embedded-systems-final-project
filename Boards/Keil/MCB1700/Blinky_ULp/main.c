@@ -1,21 +1,3 @@
-/*
-COE718 Final Project
-
-Name: Nihar Sheth
-Student ID: 500745364
-
-Course: COE718 - Embedded Systems Design
-Instructor: Dr. Saber Amini
-
-Section: 05
-TA: Farnaz Sarhangian
-Demo date & time: Friday, December 4, 2020, 9:30 AM
-*/
-
-//////////////////////////////////////////////////////////////////////////////////////
-//									Library and Header Declarations		      												//
-//////////////////////////////////////////////////////////////////////////////////////	
-
 #define osObjectsPublic                 // Define objects in main module
 #define PI 3.141592654
 
